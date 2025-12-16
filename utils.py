@@ -2,7 +2,8 @@ import json
 import faiss
 import numpy as np
 import re
-from langchain.docstore.document import Document
+from langchain.schema import Document
+
 from langchain_huggingface import HuggingFaceEmbeddings
 from nltk.corpus import stopwords
 import nltk
