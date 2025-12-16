@@ -21,7 +21,7 @@ A recommendation engine for SHL assessments that leverages FAISS, HuggingFace em
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/shl-recommendation-engine.git
+   git clone https://github.com/SohamSharma18/SHL-Recommendation-System.git
    cd shl-recommendation-engine
 
  2. Install dependencies:
